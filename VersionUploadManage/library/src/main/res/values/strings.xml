@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">VersionLibrary</string>
+
+    <string name="apk_down">更新程序下载中！</string>
+    <string name="downing">正在下载</string>
+    <string name="versioninfo">最新版本%s描述:</string>
+    <string name="version_update">新版本来啦</string>
+    <string name="cancel">稍后再说</string>
+    <string name="confirm">立即更新</string>
+
+    <string name="update_download_failed">下载失败</string>
+    <string name="update_download_failed_msg">下载失败原因</string>
+    <string name="update_download_finish">下载完成</string>
+    <string name="update_download_processing">正在下载</string>
+    <string name="update_download_start">下载开始</string>
+    <string name="update_download_new_version">有新版本</string>
+</resources>
